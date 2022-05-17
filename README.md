@@ -22,15 +22,29 @@ object KevinWashington** {
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </div>
+  
+## Habilidades em desenvolvimento ou em aprimoramento
+  
+<div>
+  
+  <a href="" target="_blank">![Bootstrap](https://img.shields.io/badge/-Bootstrap-69529c?style=for-the-badge&logo=Bootstrap&logoColor=white)</a>
+  
+</div>
 
-## **GitHub Estatísticas**
+## Próximas habilidades a serem desenvolvidas
 
-<div style="display: inline_block" align="center"><br>
-  <a href="https://github.com/KevinWashington">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWashington&theme=default" />
-  </a>
+<div>
+  
+  <a href="" target="_blank">![ReactNative](https://img.shields.io/badge/-react%20Native-black?style=for-the-badge&logo=react&logoColor=69529c)</a>
+  <a href="" target="_blank">![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=for-the-badge&logo=TypeScript&logoColor=white)</a>
+  
+</div>
 
-  <a href="https://github.com/KevinWashington">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KevinWashington&show_icons=true&theme=default" alt="Kevin Washington github stats"/>
-  </a>
+##  
+
+<div align="center">
+<br/>
+  <a href="https://github.com/KevinWashington">
+  <img height="159em" src="https://github-readme-stats.vercel.app/api?username=KevinWashington&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="159em" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinWashington&theme=black-ice&date_format=j%20M%5B%20Y%5D&background=FFFFFF&border=CCCCCC&stroke=CCCCCC&ring=4F94EF&fire=4C71F2&currStreakNum=434D58&sideNums=434D58&currStreakLabel=4F94EF&sideLabels=434D58&dates=434D58"/>
 </div>
