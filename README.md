@@ -35,7 +35,7 @@ object KevinWashington** {
 
 <div>
   
-  <a href="" target="_blank">![ReactNative](https://img.shields.io/badge/-react%20Native-black?style=for-the-badge&logo=react&logoColor=69529c)</a>
+  <a href="" target="_blank">![React](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=69529c))</a>
   <a href="" target="_blank">![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=for-the-badge&logo=TypeScript&logoColor=white)</a>
   
 </div>
