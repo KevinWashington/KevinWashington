@@ -6,13 +6,22 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object KevinWashington** {
- val name = "Kevin Washington"
- val acknowledgements = "Desenvolvimento Web"
- val languages = listOf("Git", "JavaScript", "HTML", "CSS") 
-}
 ```
+const myLife = () => {
+  return {
+    name: "Kevin Washington", 
+    age: 18,
+    freetime: "programming",
+    acknowledgements = "Frontend development",
+    languages = ['Git', 'JavaScript', 'HTML', 'CSS']
+  };
+};
+
+do {
+  myLife();
+} while (alive);
+```
+
 
 ## **Linguagens e Ferramentas:**  
 <div style="display: inline_block" align="center"><br>
