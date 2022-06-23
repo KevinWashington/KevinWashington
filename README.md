@@ -30,13 +30,14 @@ do {
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 </div>
   
 ## Habilidades em desenvolvimento ou em aprimoramento
   
 <div>
   
-  <a href="" target="_blank">![PHP](https://img.shields.io/badge/-php-69529c?style=for-the-badge&logo=Php&logoColor=white)</a>
+  <a href="" target="_blank">![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=for-the-badge&logo=TypeScript&logoColor=white)</a>
   
 </div>
 
@@ -45,7 +46,7 @@ do {
 <div>
   
   <a href="" target="_blank">![React](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=69529c)</a>
-  <a href="" target="_blank">![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=for-the-badge&logo=TypeScript&logoColor=white)</a>
+  <a href="" target="_blank">![Sass](https://img.shields.io/badge/-Sass-bf4080?style=for-the-badge&logo=Sass&logoColor=white)</a>
   
 </div>
 
