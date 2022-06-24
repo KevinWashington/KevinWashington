@@ -46,7 +46,8 @@ do {
 <div>
   
   <a href="" target="_blank">![React](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=69529c)</a>
-  <a href="" target="_blank">![Sass](https://img.shields.io/badge/-Sass-bf4080?style=for-the-badge&logo=Sass&logoColor=white)</a>
+  <a href="" target="_blank">![Sass](https://img.shields.io/badge/-Sass-bf4080?style=for-the-badge&logo=Sass&logoColor=white)
+  <a href="" target="_blank">![NodeJs](https://img.shields.io/badge/-NodeJs-026e00?style=for-the-badge&logo=node.js&logoColor=white)</a>
   
 </div>
 
