@@ -41,6 +41,7 @@ do {
   
   <a href="" target="_blank">![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=for-the-badge&logo=TypeScript&logoColor=white)</a>
   <a href="" target="_blank">![NodeJs](https://img.shields.io/badge/-NodeJs-026e00?style=for-the-badge&logo=node.js&logoColor=white)</a>
+  <a href="" target="_blank">![VueJs](https://img.shields.io/badge/-vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)</a>
   
 </div>
 
