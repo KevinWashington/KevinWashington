@@ -15,7 +15,7 @@ const myLife = () => {
     age: 18,
     freetime: "programming",
     acknowledgements = "Frontend development",
-    languages = ['Git', 'JavaScript', 'HTML', 'CSS']
+    skills = ['Git', 'JavaScript', 'HTML', 'CSS']
   };
 };
 
