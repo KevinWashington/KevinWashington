@@ -12,10 +12,10 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 const myLife = () => {
   return {
     name: "Kevin Washington", 
-    age: 18,
+    age: 20,
     freetime: "programming",
     acknowledgements = "Frontend development",
-    skills = ['Git', 'JavaScript', 'HTML', 'CSS']
+    skills = ['Git', 'JavaScript', 'HTML', 'CSS', 'VueJs', 'Wordpress', 'Bootstrap']
   };
 };
 
