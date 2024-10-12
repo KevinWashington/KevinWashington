@@ -12,10 +12,10 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 const myLife = () => {
   return {
     name: "Kevin Washington", 
-    age: 20,
+    age: 21,
     freetime: "programming",
     acknowledgements = "Frontend development",
-    skills = ['Git', 'JavaScript', 'HTML', 'CSS', 'VueJs', 'Wordpress', 'Bootstrap']
+    skills = ['Dart', 'JavaScript', 'HTML', 'CSS', 'VueJs', 'Wordpress', 'Bootstrap', 'TailwindJS', 'Django', 'Flutter']
   };
 };
 
@@ -25,43 +25,31 @@ do {
 ```
 
 
-## **Linguagens e Ferramentas:**  
-<div style="display: inline_block" align="center"><br>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-</div>
-  
-## Habilidades em desenvolvimento ou em aprimoramento
-  
-<div>
-  
-  <a href="" target="_blank">![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=for-the-badge&logo=TypeScript&logoColor=white)</a>
-  <a href="" target="_blank">![VueJs](https://img.shields.io/badge/-vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)</a>
-  <a href="" target="_blank">![Bootstrap](https://img.shields.io/badge/-Bootstrap-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white)</a>
-  
-</div>
-
-## Próximas habilidades a serem desenvolvidas
-
-<div>
-  
-  <a href="" target="_blank">![React](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=69529c)</a>
-  <a href="" target="_blank">![Sass](https://img.shields.io/badge/-Sass-bf4080?style=for-the-badge&logo=Sass&logoColor=white)
-  
-</div>
-
-##  
-
+### 
 <div align="center">
-<br/>
-  <a href="https://github.com/KevinWashington">
-  <img height="159em" src="https://github-readme-stats.vercel.app/api?username=KevinWashington&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="159em" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinWashington&theme=black-ice&date_format=j%20M%5B%20Y%5D&background=FFFFFF&border=CCCCCC&stroke=CCCCCC&ring=4F94EF&fire=4C71F2&currStreakNum=434D58&sideNums=434D58&currStreakLabel=4F94EF&sideLabels=434D58&dates=434D58"/>
-   <img height="159em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWashington&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=false&icon_color=00000000&count_private=true"/>
+  <a href="https://github.com/samuel06santos">
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWashington&locale=pt-br&hide=Cmake&exclude_repo=Sistema-WEB&layout=compact&langs_count=8&theme=midnight-purple"/>
+    <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinWashington&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&background=000000&border=FFFFFF&stroke=FFFFFF&ring=7F3ACE&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=KevinWashington&card_width=400&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&text_bold=false&hide=prs,issues&custom_title=Minhas%20Estatísticas"/>
 </div>
+<br><br>
+<div>
+  <h1>                💻 Languages 📖:                </h1>
+  <p align="center">
+    <img align="center" title="Dart" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+    <img align="center" title="JavaScript" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" title="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+    <img align="center" title="HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  </p>
+</div>
+<div>
+  <h1>                Frameworks:                </h1>
+  <p align="center">
+    <img align="center" title="Flutter" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+    <img align="center" title="Django" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+    <img align="center" title="Vue" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+    <img align="center" title="TailwindCSS" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg">
+    <img align="center" title="TailwindCSS" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg">
+  </p>
+</div>
+  
