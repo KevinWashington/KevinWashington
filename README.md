@@ -15,7 +15,7 @@ const myLife = () => {
     age: 21,
     freetime: "programming",
     acknowledgements = "Frontend development",
-    skills = ['Dart', 'JavaScript', 'HTML', 'CSS', 'VueJs', 'Wordpress', 'Bootstrap', 'TailwindJS', 'Django', 'Flutter']
+    skills = ['JavaScript', 'HTML', 'CSS', 'VueJs', 'Wordpress', 'Bootstrap', 'TailwindJS', 'Django', 'React']
   };
 };
 
@@ -29,27 +29,53 @@ do {
 <div align="center">
   <a href="https://github.com/samuel06santos">
    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWashington&locale=pt-br&hide=Cmake&exclude_repo=Sistema-WEB&layout=compact&langs_count=8&theme=midnight-purple"/>
-    <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinWashington&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&background=000000&border=FFFFFF&stroke=FFFFFF&ring=7F3ACE&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=KevinWashington&card_width=400&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&text_bold=false&hide=prs,issues&custom_title=Minhas%20Estatísticas"/>
 </div>
 <br><br>
 <div>
-  <h1>                💻 Languages 📖:                </h1>
-  <p align="center">
-    <img align="center" title="Dart" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-    <img align="center" title="JavaScript" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" title="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-    <img align="center" title="HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  </p>
-</div>
-<div>
-  <h1>                Frameworks:                </h1>
-  <p align="center">
-    <img align="center" title="Flutter" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-    <img align="center" title="Django" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-    <img align="center" title="Vue" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-    <img align="center" title="TailwindCSS" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg">
-    <img align="center" title="TailwindCSS" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg">
-  </p>
+  <h1>                💻 technology stack 📖:                </h1>
+  <div>
+
+  <a title="javascript" href="https://developer.mozilla.org/docs/Web/JavaScript">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/javascript/4493f8" /></a>
+  
+  <a title="css" href="https://developer.mozilla.org/docs/Web/CSS">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/css3/4493f8" /></a>
+  
+  <a title="html" href="https://developer.mozilla.org/docs/Web/HTML">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/html5/4493f8" /></a>
+  
+  <a title="react" href="https://react.dev">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/react/4493f8" /></a>
+  
+  
+  <a title="vite" href="https://vitejs.dev/">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/vite/4493f8" /></a>
+  
+  <a title="eslint" href="https://eslint.org">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/eslint/4493f8" /></a>
+  
+  <a title="svg" href="https://developer.mozilla.org/docs/Web/SVG">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/svg/4493f8" /></a>
+  
+  <a title="vuejs" href="https://vuejs.org/">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/vuedotjs/4493f8" /></a>
+  
+  <a title="npm" href="https://npmjs.com/">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/npm/4493f8" /></a>
+  
+  <a title="git" href="https://git-scm.com">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/git/4493f8" /></a>
+  
+  <a title="linux" href="https://distrochooser.de/">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/linux/4493f8" /></a>
+  
+  <a title="wordpress" href="https://wordpress.org">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/wordpress/4493f8" /></a>
+  
+  <a title="github copilot" href="https://github.com/features/copilot">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/githubcopilot/4493f8" /></a>
+  
+  </div>
 </div>
   
