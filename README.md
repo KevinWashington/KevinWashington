@@ -1,27 +1,35 @@
-### Oi devs 
+### 👋 Olá, devs! Sejam bem-vindos ao meu perfil 🚀
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Sou apaixonado por criar soluções que fazem a diferença — e adoro compartilhar conhecimento para que outras pessoas façam o mesmo!
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+---
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
 <img width="100%" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-<hr>
+Sou **Kevin Washington**, desenvolvedor frontend com foco em criar interfaces modernas, acessíveis e performáticas.  
+Tenho 21 anos e amo aproveitar meu tempo livre programando e explorando novas tecnologias.  
+Atualmente focado em **JavaScript**, **React**, **Django** e ferramentas que aceleram o desenvolvimento web.
+
+💬 Adoro trocar ideias sobre código, design e boas práticas. Vamos conversar?
+
+---
+
+### 🧠 Meu código de vida
 
 ```javascript
-const myLife = () => {
-  return {
-    name: "Kevin Washington", 
-    age: 21,
-    freetime: "programming",
-    acknowledgements = "Frontend development",
-    skills = ['JavaScript', 'HTML', 'CSS', 'VueJs', 'Wordpress', 'Bootstrap', 'TailwindJS', 'Django', 'React']
-  };
-};
+const myLife = () => ({
+  name: "Kevin Washington", 
+  age: 21,
+  freetime: "programming",
+  acknowledgements: "Frontend development",
+  skills: ['JavaScript', 'HTML', 'CSS', 'VueJs', 'WordPress', 'Bootstrap', 'TailwindCSS', 'Django', 'React']
+});
 
-do {
+while (true) {
   myLife();
-} while (alive);
+}
 ```
 
 
