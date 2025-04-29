@@ -44,46 +44,8 @@ while (true) {
   <h1>                💻 technology stack 📖:                </h1>
   <div>
 
-  <a title="javascript" href="https://developer.mozilla.org/docs/Web/JavaScript">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/javascript/4493f8" /></a>
-  
-  <a title="css" href="https://developer.mozilla.org/docs/Web/CSS">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/css3/4493f8" /></a>
-  
-  <a title="html" href="https://developer.mozilla.org/docs/Web/HTML">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/html5/4493f8" /></a>
-  
-  <a title="react" href="https://react.dev">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/react/4493f8" /></a>
-  
-  
-  <a title="vite" href="https://vitejs.dev/">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/vite/4493f8" /></a>
-  
-  <a title="eslint" href="https://eslint.org">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/eslint/4493f8" /></a>
-  
-  <a title="svg" href="https://developer.mozilla.org/docs/Web/SVG">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/svg/4493f8" /></a>
-  
-  <a title="vuejs" href="https://vuejs.org/">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/vuedotjs/4493f8" /></a>
-  
-  <a title="npm" href="https://npmjs.com/">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/npm/4493f8" /></a>
-  
-  <a title="git" href="https://git-scm.com">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/git/4493f8" /></a>
-  
-  <a title="linux" href="https://distrochooser.de/">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/linux/4493f8" /></a>
-  
-  <a title="wordpress" href="https://wordpress.org">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/wordpress/4493f8" /></a>
-  
-  <a title="github copilot" href="https://github.com/features/copilot">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/githubcopilot/4493f8" /></a>
-  
+![Main technologies](https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,css,react,django,tailwind,bootstrap,python,github,netlify,vite,linux)
+
   </div>
 </div>
   
