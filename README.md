@@ -1,6 +1,6 @@
-### 👋 Olá, devs! Sejam bem-vindos ao meu perfil 🚀
+### 👋 Olá, devs! 🚀
 
-Sou apaixonado por criar soluções que fazem a diferença — e adoro compartilhar conhecimento para que outras pessoas façam o mesmo!
+Sou apaixonado por criar soluções que fazem a diferença!
 
 ---
 
@@ -11,8 +11,6 @@ Sou apaixonado por criar soluções que fazem a diferença — e adoro compartil
 Sou **Kevin Washington**, desenvolvedor frontend com foco em criar interfaces modernas, acessíveis e performáticas.  
 Tenho 21 anos e amo aproveitar meu tempo livre programando e explorando novas tecnologias.  
 Atualmente focado em **JavaScript**, **React**, **Django** e ferramentas que aceleram o desenvolvimento web.
-
-💬 Adoro trocar ideias sobre código, design e boas práticas. Vamos conversar?
 
 ---
 
