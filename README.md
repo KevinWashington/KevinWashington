@@ -33,7 +33,7 @@ while (true) {
 
 ### 
 <div align="center">
-  <a href="https://github.com/samuel06santos">
+  <a href="https://github.com/KevinWashington">
    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinWashington&locale=pt-br&hide=Cmake&exclude_repo=Sistema-WEB&layout=compact&langs_count=8&theme=midnight-purple"/>
    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=KevinWashington&card_width=400&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&text_bold=false&hide=prs,issues&custom_title=Minhas%20Estatísticas"/>
 </div>
